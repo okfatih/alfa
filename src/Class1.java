@@ -17,4 +17,7 @@ public class Class1 {
         Not: bu iki komutu tek seferde kullandıktan sonra diğer ikinci commitlerim için
         sadece git push ykullanırım
          */
+    public static void main(String[] args) {
+        System.out.println("Github başladı");
+    }
 }
