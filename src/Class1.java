@@ -16,6 +16,8 @@ public class Class1 {
         git push -u origin master
         Not: bu iki komutu tek seferde kullandıktan sonra diğer ikinci commitlerim için
         sadece git push ykullanırım
+          git log --oneline en son yaptığım commiti gösterir
+     */
          */
     public static void main(String[] args) {
         System.out.println("Github başladı");
